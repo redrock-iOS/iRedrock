@@ -7,21 +7,24 @@
 //
 
 #import "ViewController.h"
+#import "WeKit.h"
 
 @interface ViewController ()
-
+@property (nonatomic, strong, readwrite) UIButton *button1;
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
+    self.button1 = [UIButton templateButtonWithOrigin:CGPointMake(120, 250)];
+    UISwipeGestureRecognizer *gesture = [[UISwipeGestureRecognizer alloc]initWithTarget:self action:@selector(swipe)];
+    gesture.direction = UISwipeGestureRecognizerDirectionUp;
+    [self.view addGestureRecognizer:gesture];
+    [self.view addSubview:self.button1];
+};
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)swipe {
+    self.button1.transform = CGAffineTransformRotate(self.button1.transform, M_PI / 6);
 }
-
 @end

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A" : 0,
+    "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87871D28-3713-4B70-A320-C4388674D5EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A" : "Lesson\/",
+    "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456" : "Lesson\/%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%A4%A7%E8%AF%BE\/Demo_Gesture\/Demo_Gesture\/WeKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo_Gesture",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "第五次大课\/Demo_Gesture\/Demo_Gesture.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RainyTunes\/iRedrock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RainyTunes\/WeKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456"
+    }
+  ]
+}

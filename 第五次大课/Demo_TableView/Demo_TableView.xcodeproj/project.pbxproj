@@ -13,6 +13,15 @@
 		3B0B03211C0A688E0019D5F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B0B031F1C0A688E0019D5F5 /* Main.storyboard */; };
 		3B0B03231C0A688E0019D5F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B0B03221C0A688E0019D5F5 /* Assets.xcassets */; };
 		3B0B03261C0A688E0019D5F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B0B03241C0A688E0019D5F5 /* LaunchScreen.storyboard */; };
+		3B0B03401C0A692F0019D5F5 /* MPVolumeView+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03301C0A692F0019D5F5 /* MPVolumeView+We.m */; };
+		3B0B03411C0A692F0019D5F5 /* NSNumber+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03321C0A692F0019D5F5 /* NSNumber+We.m */; };
+		3B0B03421C0A692F0019D5F5 /* UIButton+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03341C0A692F0019D5F5 /* UIButton+We.m */; };
+		3B0B03431C0A692F0019D5F5 /* UIColor+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03361C0A692F0019D5F5 /* UIColor+We.m */; };
+		3B0B03441C0A692F0019D5F5 /* UIImage+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03381C0A692F0019D5F5 /* UIImage+We.m */; };
+		3B0B03451C0A692F0019D5F5 /* UILabel+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B033A1C0A692F0019D5F5 /* UILabel+We.m */; };
+		3B0B03471C0A692F0019D5F5 /* UIView+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B033E1C0A692F0019D5F5 /* UIView+We.m */; };
+		3B0B034A1C0A69760019D5F5 /* UIScreen+We.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B03491C0A69760019D5F5 /* UIScreen+We.m */; };
+		3B0B034C1C0A6C520019D5F5 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3B0B034B1C0A6C520019D5F5 /* image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +35,25 @@
 		3B0B03221C0A688E0019D5F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B0B03251C0A688E0019D5F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B0B03271C0A688E0019D5F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B0B032E1C0A692F0019D5F5 /* LxDBAnything.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LxDBAnything.h; sourceTree = "<group>"; };
+		3B0B032F1C0A692F0019D5F5 /* MPVolumeView+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MPVolumeView+We.h"; sourceTree = "<group>"; };
+		3B0B03301C0A692F0019D5F5 /* MPVolumeView+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MPVolumeView+We.m"; sourceTree = "<group>"; };
+		3B0B03311C0A692F0019D5F5 /* NSNumber+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+We.h"; sourceTree = "<group>"; };
+		3B0B03321C0A692F0019D5F5 /* NSNumber+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+We.m"; sourceTree = "<group>"; };
+		3B0B03331C0A692F0019D5F5 /* UIButton+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+We.h"; sourceTree = "<group>"; };
+		3B0B03341C0A692F0019D5F5 /* UIButton+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+We.m"; sourceTree = "<group>"; };
+		3B0B03351C0A692F0019D5F5 /* UIColor+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+We.h"; sourceTree = "<group>"; };
+		3B0B03361C0A692F0019D5F5 /* UIColor+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+We.m"; sourceTree = "<group>"; };
+		3B0B03371C0A692F0019D5F5 /* UIImage+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+We.h"; sourceTree = "<group>"; };
+		3B0B03381C0A692F0019D5F5 /* UIImage+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+We.m"; sourceTree = "<group>"; };
+		3B0B03391C0A692F0019D5F5 /* UILabel+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+We.h"; sourceTree = "<group>"; };
+		3B0B033A1C0A692F0019D5F5 /* UILabel+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+We.m"; sourceTree = "<group>"; };
+		3B0B033D1C0A692F0019D5F5 /* UIView+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+We.h"; sourceTree = "<group>"; };
+		3B0B033E1C0A692F0019D5F5 /* UIView+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+We.m"; sourceTree = "<group>"; };
+		3B0B033F1C0A692F0019D5F5 /* WeKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeKit.h; sourceTree = "<group>"; };
+		3B0B03481C0A69760019D5F5 /* UIScreen+We.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScreen+We.h"; sourceTree = "<group>"; };
+		3B0B03491C0A69760019D5F5 /* UIScreen+We.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+We.m"; sourceTree = "<group>"; };
+		3B0B034B1C0A6C520019D5F5 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +86,7 @@
 		3B0B03151C0A688E0019D5F5 /* Demo_TableView */ = {
 			isa = PBXGroup;
 			children = (
+				3B0B032D1C0A692F0019D5F5 /* WeKit */,
 				3B0B03191C0A688E0019D5F5 /* AppDelegate.h */,
 				3B0B031A1C0A688E0019D5F5 /* AppDelegate.m */,
 				3B0B031C1C0A688E0019D5F5 /* ViewController.h */,
@@ -77,6 +106,32 @@
 				3B0B03171C0A688E0019D5F5 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3B0B032D1C0A692F0019D5F5 /* WeKit */ = {
+			isa = PBXGroup;
+			children = (
+				3B0B034B1C0A6C520019D5F5 /* image.jpg */,
+				3B0B03481C0A69760019D5F5 /* UIScreen+We.h */,
+				3B0B03491C0A69760019D5F5 /* UIScreen+We.m */,
+				3B0B032E1C0A692F0019D5F5 /* LxDBAnything.h */,
+				3B0B032F1C0A692F0019D5F5 /* MPVolumeView+We.h */,
+				3B0B03301C0A692F0019D5F5 /* MPVolumeView+We.m */,
+				3B0B03311C0A692F0019D5F5 /* NSNumber+We.h */,
+				3B0B03321C0A692F0019D5F5 /* NSNumber+We.m */,
+				3B0B03331C0A692F0019D5F5 /* UIButton+We.h */,
+				3B0B03341C0A692F0019D5F5 /* UIButton+We.m */,
+				3B0B03351C0A692F0019D5F5 /* UIColor+We.h */,
+				3B0B03361C0A692F0019D5F5 /* UIColor+We.m */,
+				3B0B03371C0A692F0019D5F5 /* UIImage+We.h */,
+				3B0B03381C0A692F0019D5F5 /* UIImage+We.m */,
+				3B0B03391C0A692F0019D5F5 /* UILabel+We.h */,
+				3B0B033A1C0A692F0019D5F5 /* UILabel+We.m */,
+				3B0B033D1C0A692F0019D5F5 /* UIView+We.h */,
+				3B0B033E1C0A692F0019D5F5 /* UIView+We.m */,
+				3B0B033F1C0A692F0019D5F5 /* WeKit.h */,
+			);
+			path = WeKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B0B03261C0A688E0019D5F5 /* LaunchScreen.storyboard in Resources */,
+				3B0B034C1C0A6C520019D5F5 /* image.jpg in Resources */,
 				3B0B03231C0A688E0019D5F5 /* Assets.xcassets in Resources */,
 				3B0B03211C0A688E0019D5F5 /* Main.storyboard in Resources */,
 			);
@@ -151,8 +207,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B0B031E1C0A688E0019D5F5 /* ViewController.m in Sources */,
+				3B0B03431C0A692F0019D5F5 /* UIColor+We.m in Sources */,
+				3B0B034A1C0A69760019D5F5 /* UIScreen+We.m in Sources */,
+				3B0B03421C0A692F0019D5F5 /* UIButton+We.m in Sources */,
 				3B0B031B1C0A688E0019D5F5 /* AppDelegate.m in Sources */,
+				3B0B03411C0A692F0019D5F5 /* NSNumber+We.m in Sources */,
+				3B0B03471C0A692F0019D5F5 /* UIView+We.m in Sources */,
 				3B0B03181C0A688E0019D5F5 /* main.m in Sources */,
+				3B0B03401C0A692F0019D5F5 /* MPVolumeView+We.m in Sources */,
+				3B0B03441C0A692F0019D5F5 /* UIImage+We.m in Sources */,
+				3B0B03451C0A692F0019D5F5 /* UILabel+We.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
