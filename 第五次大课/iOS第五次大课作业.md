@@ -1,6 +1,7 @@
 # 作业
 
 - 来做一个2048的游戏吧，这对你们来讲绝非是不可能的任务，一步一步来~
+![2048](https://github.com/RainyTunes/iRedrock/blob/master/%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%A4%A7%E8%AF%BE/screen1136x1136.jpeg)
 
 ## 说明
 
