@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A" : 0,
+    "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D5A5B5B5-2B1F-4044-9F9B-589CB5EC7F34",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A" : "Lesson\/",
+    "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456" : "Lesson\/%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%A4%A7%E8%AF%BE\/Demo_TableView\/Demo_TableView\/WeKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo_TableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "第五次大课\/Demo_TableView\/Demo_TableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RainyTunes\/iRedrock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D7C6C0EDDCB2FEA5960743E070A02DECB2C888A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RainyTunes\/WeKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C07E3CA1B38EDF0265D5F3ECFC2AED2B0544456"
+    }
+  ]
+}
